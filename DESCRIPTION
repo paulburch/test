@@ -1,6 +1,6 @@
 Package: test
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Test R package
 Version: 0.1.0
 Author: Paul Burch
 Maintainer: The package maintainer <yourself@somewhere.net>
